@@ -1,5 +1,5 @@
 ## 😃 Hi, I'm Katryel Menezes
-### 💻 Backend Developer
+### 💻 Back-end Developer
 
 [![Linkedin Badge](https://img.shields.io/badge/-Katryel%20Menezes-2E2D2E?style=for-the-badge&labelColor=000000&logo=linkedin&link=https://www.linkedin.com/in/katryelmenezesdev/)](https://www.linkedin.com/in/katryelmenezesdev/) [![Gmail Badge](https://img.shields.io/badge/-katryel.dev@gmail.com-2E2D2E?style=for-the-badge&labelColor=000000&logo=gmail&link=mailto:katryel.dev@gmail.com)](mailto:katryel.dev@gmail.com)
 
